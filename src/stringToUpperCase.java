@@ -15,7 +15,7 @@ public class stringToUpperCase {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.print("Enter Serial Numer Counts (integer): ");
+		System.out.print("Enter Serial Number Counts (integer): ");
 		int sn_count = sc.nextInt();
 		System.out.println("SN count is: " + sn_count);
 		
